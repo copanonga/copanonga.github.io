@@ -16,3 +16,4 @@
 ## Snippets
 
 * [PHP](https://github.com/copanonga/PHP/blob/master/README.md)
+* [JavaScript](https://github.com/copanonga/JavaScript/blob/master/README.md)
