@@ -14,3 +14,5 @@
 * [Push button](https://github.com/copanonga/PushButton)
 
 ## Snippets
+
+* [PHP](https://github.com/copanonga/PHP/blob/master/README.md)
