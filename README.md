@@ -2,6 +2,11 @@
 
 [https://copanonga.github.io/](https://copanonga.github.io/)
 
+## Proyectos profesionales
+
+* Aplicaciones iOS
+  * Pintiplan
+
 ## Proyectos personales
 
 * Web
