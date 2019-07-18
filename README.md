@@ -8,7 +8,7 @@
   * Pintiplan
 * Aplicaciones Android
   * Shotokan Katas
-* Webs
+* Web
   * El Informe Oculto
   * Findasense
   * Gimnasio Okinawa
@@ -23,6 +23,14 @@
   * [Clouds and Mouses](https://copanonga.github.io/CloudsAndMouses/)
   * [Hospital Veterinario Parque de Berlín](https://copanonga.github.io/HospitalVeterinarioParqueDeBerlin/)
   * [Aprendiendo colores](https://copanonga.github.io/AprendiendoColores/)
+* Aplicaciones iOS
+  * Estilo de vida
+     * Productos de temporada
+     * Tabla de añadas
+  * Medicina
+     * Glasgow
+  * Productividad
+     * Tu ganadería
 
 ## Arduino
 
