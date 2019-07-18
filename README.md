@@ -6,6 +6,8 @@
 
 * Aplicaciones iOS
   * Pintiplan
+* Aplicaciones Android
+  * Shotokan Katas
 
 ## Proyectos personales
 
