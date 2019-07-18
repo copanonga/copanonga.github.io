@@ -29,7 +29,7 @@ Actualmente desarrollando una plataforma educativa para el [Colegio San Fernando
 ## Proyectos personales
 
 * Web
-  * Clouds and Mouses ([Readme](https://github.com/copanonga/CloudsAndMouses) | [Demo](https://copanonga.github.io/CloudsAndMouses/))
+  * Clouds and Mouses [[Readme](https://github.com/copanonga/CloudsAndMouses) | [Demo](https://copanonga.github.io/CloudsAndMouses/)]
   * [Hospital Veterinario Parque de Berlín](https://copanonga.github.io/HospitalVeterinarioParqueDeBerlin/)
   * [Aprendiendo colores](https://copanonga.github.io/AprendiendoColores/)
 * Aplicaciones iOS
