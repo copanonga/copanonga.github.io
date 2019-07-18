@@ -11,6 +11,8 @@
 
 ## Proyectos profesionales
 
+Actualmente desarrollando una plataforma educativa para el [Colegio San Fernando](http://sanfer.es) de Avilés
+
 * Aplicaciones iOS
   * Pintiplan
 * Aplicaciones Android
