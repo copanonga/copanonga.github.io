@@ -8,6 +8,14 @@
   * Pintiplan
 * Aplicaciones Android
   * Shotokan Katas
+* Webs
+  * El Informe Oculto
+  * Findasense
+  * Gimnasio Okinawa
+  * Hoteles Cabeza
+  * Patronato de San José
+  * Reinas Grupo Inmobiliario
+  * Tamara González
 
 ## Proyectos personales
 
