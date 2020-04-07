@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <!--
-	Directive by HTML5 UP
+	Identity by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
@@ -8,92 +8,51 @@
 	<head>
 		<title>Copanonga</title>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<link rel="icon" href="images/avatar.jpg" type="image/png"/>
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
-	<body>
+	<body class="is-preload">
 
-		<!-- Header -->
-			<div id="header">
-				<!-- <span class="logo icon fa-paper-plane-o"></span> -->
-				<h1>Copanonga</h1>
-			</div>
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-		<!-- Main -->
-			<div id="main">
-
-				<header class="major container 75%">
-					<h2>Just apps
-					<br />
-					and
-					<br />
-					apps in progress</h2>
-				</header>
-
-				<div class="box alt container">
-					<section class="feature left">
-						<a href="https://github.com/copanonga" class="image icon fa-github"><img src="images/pic01.jpg" alt="Repositories in GitHub" /></a>
-						<div class="content">
-							<h3>GitHub</h3>
-							<p>You can see the repositories in
-							<br /><a href="https://github.com/copanonga" target="_blank">https://github.com/copanonga</a></p>
-						</div>
+				<!-- Main -->
+					<section id="main">
+						<header>
+							<span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
+							<h1>Copanonga</h1>
+							<p>Desarrollo de software</p>
+						</header>
+						
+						<footer>
+							<ul class="icons">
+								<li><a href="https://github.com/copanonga" class="icon brands fa-github">GitHub</a></li>
+								<li><a href="https://www.linkedin.com/in/josemsg/" class="icon brands fa-linkedin-in">LinkedIn</a></li>
+								<li><a href="mailto:copanonga@gmail.com" class="brands far fa-envelope-open">Correo electrónico</a></li>
+								<!-- <li><a href="#" class="icon brands fa-google-play">Google Play</a></li> -->
+								<!-- <li><a href="#" class="icon brands fa-instagram">Instagram</a></li> -->
+							</ul>
+						</footer>
 					</section>
-					<section class="feature right">
-						<a href="https://gist.github.com/copanonga" class="image icon fa-code"><img src="images/pic02.jpg" alt="Gist in GitHub" /></a>
-						<div class="content">
-							<h3>Gist</h3>
-							<p>You can see the snippets in
-							<br /><a href="https://gist.github.com/copanonga" target="_blank">https://gist.github.com/copanonga</a></p>
-						</div>
-					</section>
-					<!-- <section class="feature left">
-						<a href="https://itunes.apple.com/us/developer/jose-manuel-suarez-gutierrez/id1196950323?l=es&mt=8" class="image icon fa-mobile"><img src="images/pic03.jpg" alt="Apps in App Store" /></a>
-						<div class="content">
-							<h3>App Store</h3>
-							<p>Apps develops for iOS devices
-							<br /><a href="https://itunes.apple.com/us/developer/jose-manuel-suarez-gutierrez/id1196950323?l=es&mt=8" target="_blank">App Store</a></p>
-						</div>
-					</section> -->
-					<section class="feature left">
-						<a href="https://play.google.com/store/apps/developer?id=Copanonga" class="image icon fa-mobile"><img src="images/pic04.jpg" alt="Apps in Google Play" /></a>
-						<div class="content">
-							<h3>Google Play</h3>
-							<p>Apps develops for Android
-							<br /><a href="https://play.google.com/store/apps/developer?id=Copanonga" target="_blank">Google Play</a></p>
-						</div>
-					</section>
-				</div>
 
-				<footer class="major container 75%">
-					<h3>Web</h3>
-					<p>Applications for mobile devices and more. Photos to waste time and tutorials to perform tasks in a simple way.</p>
-					<ul class="actions">
-						<li><a href="http://copanonga.com" target="_blank" class="button">copanonga.com</a></li>
-					</ul>
-				</footer>
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; Copanonga</li><li>Hecho en Asturias con cariño</li>
+						</ul>
+					</footer>
 
-			</div>
-
-		<!-- Footer -->
-			<div id="footer">
-				<div class="container 75%">
-					
-					<ul class="copyright">
-						<li>&copy; Copanonga</li><li>Designed in Asturias with love</li>
-					</ul>
-
-				</div>
 			</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
+			<script>
+				if ('addEventListener' in window) {
+					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-preload\b/, ''); });
+					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+				}
+			</script>
 
 	</body>
 </html>
