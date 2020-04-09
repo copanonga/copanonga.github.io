@@ -1,4 +1,4 @@
-# Copanonga
+# [Copanonga](#copanonga)
 
 [https://copanonga.github.io/](https://copanonga.github.io/)
 
