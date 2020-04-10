@@ -1,7 +1,5 @@
 # [Copanonga](#copanonga)
 
-[https://copanonga.github.io/](https://copanonga.github.io/)
-
 ## Lo que puedes encontrar en Copanonga
 
 - [Proyectos profesionales](#proyectos-profesionales)
